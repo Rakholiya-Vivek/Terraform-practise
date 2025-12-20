@@ -10,3 +10,5 @@
 # documents
 *.doc
 *.ps1
+demo/
+modules-self/
